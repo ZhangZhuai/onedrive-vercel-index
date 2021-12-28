@@ -1,26 +1,25 @@
 {
-  "icon": "/icons/128.png",
-  "title": "TongLang2021",
-  "maxItems": 100,
-  "googleFontSans": "Inter",
-  "googleFontMono": "Fira Mono",
-  "googleFontLinks": [
-    "https://fonts.googleapis.com/css2?family=Fira+Mono&family=Inter:wght@400;700&display=swap"
-  ],
-  "footer": "Powered by <a href=\"https://github.com/spencerwooo/onedrive-vercel-index\" target=\"_blank\" rel=\"noopener noreferrer\">onedrive-vercel-index</a>. Made with ❤ by SpencerWoo.",
-  "protectedRoutes": [
-    "/🌞 Private folder/u-need-a-password",
-    "/🥟 Some test files/Protected route"
-  ],
-  "email": "zhuai_zhang@foxmail.com",
-  "links": [
-    {
-      "name": "GitHub",
-      "link": ""
-    },
-    {
-      "name": "Telegram",
-      "link": ""
-    }
-  ]
+    "icon": "/icons/128.png",
+    "title": "TongLang2021",
+    "maxItems": 100,
+    "googleFontSans": "Inter",
+    "googleFontMono": "Fira Mono",
+    "googleFontLinks": [
+        "https://fonts.googleapis.com/css2?family=Fira+Mono&family=Inter:wght@400;700&display=swap"
+    ],
+    "footer": "Powered by <a href=\"https://github.com/spencerwooo/onedrive-vercel-index\" target=\"_blank\" rel=\"noopener noreferrer\">onedrive-vercel-index</a>. Made with ❤ by SpencerWoo.",
+    "protectedRoutes": [
+        "./private",
+    ],
+    "email": "zhuai_zhang@foxmail.com",
+    "links": [
+        {
+            "name": "GitHub",
+            "link": ""
+        },
+        {
+            "name": "Telegram",
+            "link": ""
+        }
+    ]
 }
